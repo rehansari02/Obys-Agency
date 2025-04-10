@@ -183,7 +183,7 @@ function cursorAnimation(){
        flag=0;
     })
 
-    Shery.makeMagnet(".nav .nav-part2 h4", {
+    Shery.makeMagnet(" nav .nav-part2 h4", {
     });
 
 }
